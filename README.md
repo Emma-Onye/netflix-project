@@ -1,2 +1,2 @@
-# netlfix-project
+# netflix-project
 project codebase for netflix
